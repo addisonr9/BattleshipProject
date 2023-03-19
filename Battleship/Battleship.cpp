@@ -72,7 +72,7 @@ int main()
 			cout << endl;
 		}
 	}
-	// Loop end
+	// Loop end yay
 
 	// Randomly place ships
 
